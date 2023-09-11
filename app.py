@@ -17,7 +17,7 @@ app = Flask(__name__)
 # model = tf.keras.models.load_model('chest_cancer_detection_model.h5')
 
 # Define the class labels
-class_labels = ['Adenocarcinoma', 'Large cell carcinoma', 'Squamous cell carcinoma', 'Normal']
+class_labels = ['Adenocarcinoma', 'Large cell carcinoma','Normal', 'Squamous cell carcinoma', ]
 
 # Define the upload folder
 upload_folder = 'static/uploaded_images'
