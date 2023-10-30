@@ -15,6 +15,10 @@
 - Aditya Vyas
 - Harsh Trivedi
 
+## Installs
+`pip install -r requirements.txt`
+
+
 ## Project Description
 
 This project, "Chest Cancer Detection," is a mini-project in the field of data science applied to healthcare. The objective is to develop a deep learning model that can classify chest CT scan images into four categories: Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, and Normal. The project aims to assist in early cancer detection and improve healthcare diagnostics.
